@@ -1,7 +1,7 @@
 # _MEU PORTIFÓLIO PROFISSIONAL_
 
   Estudante de Ciência da Computação com formação técnica em Redes de Computadores. Busco oportunidades para aplicar meus conhecimentos em tecnologia e desenvolvimento de projetos digitais, contribuindo com criatividade, organização e espírito de equipe.
-__________
+_____________________________________________
 
 # _Perfil_
 ![ChatGPT Image 10 de abr  de 2025, 15_39_16](https://github.com/user-attachments/assets/5986ae7b-9464-4b32-a92c-0bb515b4c1a4)
@@ -12,7 +12,7 @@ Sou organizada, criativa e tenho uma comunicação clara, o que me permite colab
 
 Estou em busca de novas oportunidades para crescer na área de TI e colocar em prática tudo que venho aprendendo.
 
-__________
+____________________________________________
 
 # _Currículo_
 
