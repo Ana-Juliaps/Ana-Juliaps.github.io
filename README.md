@@ -1,24 +1,22 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Portfólio Profissional - Anjulya Pereira</title>
   <style>
     body {
-      font-family: Arial, sans-serif;
+      font-family: Playfair Display, negrito;
       margin: 0;
       padding: 0;
-      background-color: #f4f4f4;
+      background-color: #e3co97;
     }
     header {
-      background-color: #333;
-      color: #fff;
+      background-color: #9b2d73;
+      color:  #FFFFFF;
       padding: 20px;
       text-align: center;
     }
     nav {
-      background-color: #444;
+      background-color: #e3co97;
       overflow: hidden;
     }
     nav a {
@@ -97,14 +95,12 @@ Matéria sobre a equipe
   <p>[Liste e descreva seus projetos aqui]</p>
 </section>
 
-<section id="contato">
-  <h2>Contato</h2>
+
+<footer>
+    <h2>Contato</h2>
   <p>Brasília – DF</p>
   <p>Email: anjulyapereira@gmail.com</p>
   <p>Telefone: (61) 99347-6448</p>
-</section>
-
-<footer>
   <p>&copy; 2025 Anjulya Pereira</p>
 </footer>
 
