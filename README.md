@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8" />
@@ -13,13 +13,13 @@
       scroll-behavior: smooth;
     }
 
-   header {
+  header {
       background-color: #e91e63;
       padding: 40px 20px;
       text-align: center;
     }
 
-   header img {
+  header img {
       width: 150px;
       height: 150px;
       object-fit: cover;
@@ -46,25 +46,25 @@
       flex-wrap: wrap;
     }
 
-   nav a {
+  nav a {
       color: white;
       text-decoration: none;
       padding: 15px 20px;
       transition: background-color 0.3s;
     }
 
-   nav a:hover {
+  nav a:hover {
       background-color: #e91e63;
     }
 
-   section {
+  section {
       padding: 60px 20px;
       max-width: 900px;
       margin: auto;
       animation: fadeIn 1s ease-in;
     }
 
-   section h2 {
+  section h2 {
       color: #e91e63;
       border-bottom: 1px solid #e91e63;
       padding-bottom: 10px;
@@ -81,7 +81,7 @@
       padding: 30px 20px;
     }
 
-   footer a {
+  footer a {
       color: #e91e63;
       text-decoration: none;
       margin: 0 10px;
@@ -92,7 +92,7 @@
       color: #fff;
     }
 
-   @keyframes fadeIn {
+  @keyframes fadeIn {
       from {
         opacity: 0;
         transform: translateY(10px);
@@ -165,13 +165,15 @@
     ">
     📄 Baixar Currículo em PDF
   </a>
-</section>
   <section id="projetos">
     <h2>Projetos</h2>
     <ul>
-      <li><strong>Prjeto Social:</strong> O programa F1 in Schools, apoiado pela Fórmula 1, desafia crianças e jovens a desenvolver habilidades práticas de empreendedorismo e de tecnologia. Podem participar estudantes de 9 a 19 anos.</li>
-<li>Além de desenvolver um protótipo de veículo, os alunos precisam preparar um plano de negócios, buscar apoiadores para desenvolver a ideia e pensar em marketing e em estratégias para mídias sociais. As atividades incluem ainda uma ação social, que pode ser critério de desempate entre as equipes.</li>
-<li>A escuderia Lobo Canindé crio o projeto garotas no futuro que investe no universo STEM — acrônimo em inglês para ciência, tecnologia, engenharia e matemática. O projeto é voltado para garotas pois em nossa realidade não há muitas mulheres nesse meio, o projeto oferece aulas de programação exclusivas para meninas, ministradas por professoras voluntárias. </li>
+      <li><strong>Prjeto Social:</strong> 
+        <p>O programa F1 in Schools, apoiado pela Fórmula 1, desafia crianças e jovens a desenvolver habilidades práticas de empreendedorismo e de tecnologia. Podem participar estudantes de 9 a 19 anos.</p>
+    </p>
+<p>Além de desenvolver um protótipo de veículo, os alunos precisam preparar um plano de negócios, buscar apoiadores para desenvolver a ideia e pensar em marketing e em estratégias para mídias sociais. As atividades incluem ainda uma ação social, que pode ser critério de desempate entre as equipes.</p>
+<p>A escuderia Lobo Canindé crio o projeto garotas no futuro que investe no universo STEM — acrônimo em inglês para ciência, tecnologia, engenharia e matemática. O projeto é voltado para garotas pois em nossa realidade não há muitas mulheres nesse meio, o projeto oferece aulas de programação exclusivas para meninas, ministradas por professoras voluntárias. </p>
+    </li>  
     </ul>
   </section>
 
@@ -184,5 +186,4 @@
 
 </body>
 </html>
-![image](https://github.com/user-attachments/assets/458457e2-fc08-4f64-b296-b687735716f0)
 
