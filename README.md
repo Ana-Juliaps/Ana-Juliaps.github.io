@@ -87,7 +87,7 @@ Estou em busca de novas oportunidades para crescer na área de TI e colocar em p
 
 • Experiência prática com trabalho em equipe, resolução de problemas, comunicação, empreendedorismo e tecnologia.</p>
 
-Matéria sobre a equipe
+<a href="https://www.sistemafibra.org.br/sesi/imprensa/noticias/2032-equipe-lobo-caninde-representara-o-sesi-df-na-f1-in-schools">Matéria sobre a equipe</a>
 </section>
 
 <section id="projetos">
