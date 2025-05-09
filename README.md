@@ -88,6 +88,8 @@ Estou em busca de novas oportunidades para crescer na área de TI e colocar em p
 • Indicada ao prêmio de Melhor Desenvolvimento Feminino pela atuação de destaque;
 
 • Experiência prática com trabalho em equipe, resolução de problemas, comunicação, empreendedorismo e tecnologia.</p>
+
+Matéria sobre a equipe
 </section>
 
 <section id="projetos">
