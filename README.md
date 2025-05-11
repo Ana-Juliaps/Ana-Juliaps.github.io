@@ -170,7 +170,6 @@
     <ul>
       <li><strong>Prjeto Social:</strong> 
         <p>O programa F1 in Schools, apoiado pela Fórmula 1, desafia crianças e jovens a desenvolver habilidades práticas de empreendedorismo e de tecnologia. Podem participar estudantes de 9 a 19 anos.</p>
-    </p>
 <p>Além de desenvolver um protótipo de veículo, os alunos precisam preparar um plano de negócios, buscar apoiadores para desenvolver a ideia e pensar em marketing e em estratégias para mídias sociais. As atividades incluem ainda uma ação social, que pode ser critério de desempate entre as equipes.</p>
 <p>A escuderia Lobo Canindé crio o projeto garotas no futuro que investe no universo STEM — acrônimo em inglês para ciência, tecnologia, engenharia e matemática. O projeto é voltado para garotas pois em nossa realidade não há muitas mulheres nesse meio, o projeto oferece aulas de programação exclusivas para meninas, ministradas por professoras voluntárias. </p>
     </li>  
