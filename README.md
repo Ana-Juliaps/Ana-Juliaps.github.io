@@ -179,5 +179,5 @@
     <p>Entre em contato:</p>
     <a href="mailto:anjulyapereira@gmail.com">E-mail</a>
     <a href="https://www.linkedin.com/in/ana-j%C3%BAlia-pereira-silva-92a59a364/" target="_blank">LinkedIn</a>
-    <a href="https://github.com" target="_blank">GitHub</a>
+    <a href="https://github.com/Ana-Juliaps" target="_blank">GitHub</a>
   </footer>
