@@ -152,7 +152,6 @@
       <li>Boa familiaridade com ambientes de trabalho em equipe e gestão de tarefas.</p></li>
     <p><strong>Idiomas:</strong> Português (nativo), Inglês (intermediário)</p>
   <br />
-<p>
   <a href="curriculo.pdf" download style="
       display: inline-block;
       background-color: #e91e63;
@@ -162,21 +161,7 @@
       border-radius: 8px;
       font-weight: bold;
       transition: background-color 0.3s;
-    "></p>
-    <p>
-    📄 Baixar Currículo em PDF
-        <a href="portifólio.pdf" download style="
-      display: inline-block;
-      background-color: #e91e63;
-      color: white;
-      padding: 12px 24px;
-      text-decoration: none;
-      border-radius: 8px;
-      font-weight: bold;
-      transition: background-color 0.3s;
-    "></p>
-    📄 Baixar Portifólio em PDF
-  </a>
+    ">
   </a>
   <section id="projetos">
     <h2>Projetos</h2>
