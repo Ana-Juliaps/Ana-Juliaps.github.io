@@ -164,6 +164,18 @@
       transition: background-color 0.3s;
     ">
     📄 Baixar Currículo em PDF
+        <a href="Portifólio.pdf" download style="
+      display: inline-block;
+      background-color: #e91e63;
+      color: white;
+      padding: 12px 24px;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: bold;
+      transition: background-color 0.3s;
+    ">
+    📄 Baixar Portifólio em PDF
+  </a>
   </a>
   <section id="projetos">
     <h2>Projetos</h2>
