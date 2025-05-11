@@ -163,7 +163,6 @@
       font-weight: bold;
       transition: background-color 0.3s;
     ">
-    <p></p>
     📄 Baixar Currículo em PDF
         <a href="Portifólio.pdf" download style="
       display: inline-block;
