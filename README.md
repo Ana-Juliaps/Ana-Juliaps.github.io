@@ -162,6 +162,7 @@
       font-weight: bold;
       transition: background-color 0.3s;
     ">
+    📄 Baixar Currículo em PDF
   </a>
   <section id="projetos">
     <h2>Projetos</h2>
